@@ -1,5 +1,5 @@
 {
-	"name": "kamisama/php-resque-ex",
+	"name": "nartmal/php-resque-ex",
 	"type": "library",
 	"description": "Redis backed library for creating background jobs and processing them later. PHP port based on resque for Ruby.",
 	"keywords": ["job", "background", "redis", "resque", "queue", "php"],
@@ -27,11 +27,6 @@
 		"psr-0": {
 			"Resque": "lib"
 		}
-	},
-	"support": {
-		"email": "kami@kamisama.me",
-		"issues": "https://github.com/kamisama/php-resque-ex/issues",
-		"source": "https://github.com/kamisama/php-resque-ex"
 	},
 	"conflict": {
 		"chrisboulton/php-resque": "*"
