@@ -98,7 +98,6 @@ class Resque
 			self::$redis = $redisInstance;
 		}
 
-		self::$redis->select(self::$redisDatabase);
 		return self::$redis;
 	}
 
