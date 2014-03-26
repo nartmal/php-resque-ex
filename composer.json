@@ -3,7 +3,6 @@
 	"type": "library",
 	"description": "Redis backed library for creating background jobs and processing them later. PHP port based on resque for Ruby.",
 	"keywords": ["job", "background", "redis", "resque", "queue", "php"],
-	"homepage": "http://www.github.com/kamisama/php-resque-ex/",
 	"license": "MIT",
 	"authors": [
 		{
