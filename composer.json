@@ -28,6 +28,6 @@
 		}
 	},
 	"conflict": {
-		"chrisboulton/php-resque": "*"
+		["chrisboulton/php-resque": "*","kamisama/php-resque-ex":"*"]
 	}
 }
